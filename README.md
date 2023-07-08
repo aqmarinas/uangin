@@ -13,6 +13,7 @@ UangIn adalah sebuah aplikasi berbasis website yang dirancang untuk membantu pen
 
 ## Tech Stack
 **Client:** HTML, CSS, JavaScript
+
 **Server:** Database (MySQL), PHP
 
 ## Authors
