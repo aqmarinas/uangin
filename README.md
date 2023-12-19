@@ -1,4 +1,5 @@
 ![Logo](https://uangin.000webhostapp.com/img/UangInGreen.svg)
+![random](https://id.pinterest.com/pin/1477812370510862/)
 
 # Aplikasi Pengatur Keuangan (UangIn)
 _Jadilah Penguasa UangMu!_
